@@ -1,3 +1,2 @@
-# Quality Assurance with Chai
-
-This is the boilerplate for the Quality Assurance with Chai lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-and-testing-with-chai/
+Quality assurance, Automated testing, unit testing and functional testing 
+using mocha js ( javacript test framework) , chai.js (assertion libraray) and zombie.js
